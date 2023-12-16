@@ -55,5 +55,5 @@ CONFIG_ZMK_HID_REPORT_TYPE_NKRO=y
 CONFIG_ZMK_HID_CONSUMER_REPORT_USAGES_BASIC=y
 CONFIG_BUILD_OUTPUT_UF2=y
 
-#might need to remove later
+#fix bluetooth disconnects on PopOS/System76 machine
 CONFIG_BT_LL_SW_LLCP=y
